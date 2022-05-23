@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:08:27.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="mYlnMtGCxJZOUy-xAFgN" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:09:07.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NdE2rk-7F8fp3CBBY8ed" version="18.1.1" type="github">
   <diagram id="7SapXUWDFcSi5yozDkBx" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -271,8 +271,8 @@
         <mxCell id="ynQVyB6srk6AfmS10Wdp-110" value="Setting" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.rrect;rSize=0;strokeColor=#0080F0;fillColor=#0080F0;fontColor=#ffffff;fontSize=8;" vertex="1" parent="ynQVyB6srk6AfmS10Wdp-105">
           <mxGeometry x="82" width="41" height="12.5" as="geometry" />
         </mxCell>
-        <mxCell id="ynQVyB6srk6AfmS10Wdp-115" value="Setting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="537" y="480" width="60" height="30" as="geometry" />
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-115" value="Setting :: Profile Edit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="537" y="480" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-116" value="Edit" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#33FFFF;align=center;strokeColor=#82b366;gradientColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="537" y="810" width="105.5" height="16.88" as="geometry" />
