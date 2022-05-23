@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T04:09:07.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NdE2rk-7F8fp3CBBY8ed" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T04:12:08.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="mPSsdNiUhCpPg_-ov0h7" version="18.1.1" type="github">
   <diagram id="7SapXUWDFcSi5yozDkBx" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
           <mxGeometry x="91.25" y="290" width="100" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-91" value="Edit" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#33FFFF;align=center;strokeColor=#82b366;gradientColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="295.25" y="810" width="105.5" height="16.88" as="geometry" />
+          <mxGeometry x="322.25" y="820" width="105.5" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-92" value="Biometrix Login" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="297.25" y="710" width="162" height="16.88" as="geometry" />
@@ -275,7 +275,7 @@
           <mxGeometry x="537" y="480" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-116" value="Edit" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#33FFFF;align=center;strokeColor=#82b366;gradientColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="537" y="810" width="105.5" height="16.88" as="geometry" />
+          <mxGeometry x="568.25" y="820" width="105.5" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-120" value="Profile" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#f6f6f6;strokeColor=#f6f6f6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="537" y="600" width="162" height="16.88" as="geometry" />
@@ -290,10 +290,10 @@
           <mxGeometry x="537" y="670" width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-124" value="Email" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
-          <mxGeometry x="540" y="690" width="110" height="10" as="geometry" />
+          <mxGeometry x="538" y="690" width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-125" value="No HP" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
-          <mxGeometry x="540" y="710" width="110" height="10" as="geometry" />
+          <mxGeometry x="537" y="710" width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ynQVyB6srk6AfmS10Wdp-126" value="Pilih Bank" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
           <mxGeometry x="540" y="763.4399999999999" width="110" height="10" as="geometry" />
