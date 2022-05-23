@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T02:15:20.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.1.1" etag="gJKIMu33opyQdwp58SA8" type="github"><diagram id="7SapXUWDFcSi5yozDkBx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T02:26:44.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="fCjG96UJ5eL3qxlGNncv" version="18.1.1" type="github">
+  <diagram id="7SapXUWDFcSi5yozDkBx" name="Page-1">
+    <mxGraphModel dx="723" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-3" value="Username" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="105" y="280" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-4" value="Password" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="105" y="310" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-5" value="LOGIN" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="109.5" y="340" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-6" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="297.25" y="80" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-7" value="&lt;b&gt;&lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;Sign Up&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=center;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="100" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-8" value="Nama" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-9" value="No KTP" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-10" value="Alamat" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-11" value="Email" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-12" value="No HP" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-13" value="Upload KTP" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-14" value="SUBMIT" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="340" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="ynQVyB6srk6AfmS10Wdp-15" value="CANCEL" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d80073;align=center;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="370" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
